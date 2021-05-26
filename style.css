@@ -1,0 +1,23 @@
+.origami{
+    background-color:#efefef;
+    width:28%;
+    height: 500px;
+    margin: 10px;
+}
+h1{
+    color:lightcoral;
+    background-color: dimgray;
+}
+.grid{
+    display: flex;
+    background-color:whitesmoke;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: whitesmoke;
+}
